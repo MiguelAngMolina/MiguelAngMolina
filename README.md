@@ -31,11 +31,6 @@ My motto is simple yet powerful: discipline and dedication are the keys to achie
     </a>
     <span style="margin-left: 10px;"> <strong> Correo Electronico: </strong> miguelangel.moling@gmail.com </span>
   </div>
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.instagram.com/miguelangelmg__">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-    </a>
-    <span style="margin-left: 10px;"> <strong> Instagram: </strong> miguelangelmg__ </span>
   </div>
 </div>
 
