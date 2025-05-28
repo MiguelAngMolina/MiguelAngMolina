@@ -1,15 +1,13 @@
 ## Miguel Ángel Molina Garzón 👨🏽‍💻
 
 
-Hello everyone! 👋 I'm Miguel Angel, a passionate 21-year-old software developer hailing from Colombia 🇨🇴. My passion for programming intertwines with my love for mathematics and my curiosity for scientific research, especially in areas such as artificial intelligence and computer vision. 🤖🔍
+Hello everyone! 👋 I'm Miguel Angel, a passionate 21-year-old software developer and young researcher from Colombia 🇨🇴. My journey combines a love for mathematics and programming with a deep curiosity for scientific research, especially in areas such as artificial intelligence and computer vision. 🤖🔍
 
-Outside the realm of code, I immerse myself in the richness of music 🎵 and enjoy the cultural diversity that surrounds us. Additionally, I'm a sports enthusiast, with a special affection for tennis 🎾 and soccer ⚽, sports that showcase camaraderie and constant excitement. I firmly believe in the importance of maintaining a balance between the mind, body, work, and family. 💪👨‍👩‍👧‍👦
+I have actively contributed to research in spectral imaging and AI, and recently co-developed my undergraduate thesis focused on depth estimation through image fusion using deep learning techniques. I also design and develop mobile and web applications using technologies like Flutter, Dart, Python, React, and MATLAB, and have experience with tools such as PyTorch and OpenCV.📱💻
 
-I've had the privilege of participating in a wide range of projects, from academic challenges to professional endeavors. __My experience spans various technologies, including Python, HTML, JavaScript, CSS, Flutter, and MATLAB, with a focus on web development, data science, and mobile app creation.📱💻__
+Beyond code, I’m passionate about music 🎵 and sports, especially tennis 🎾 and soccer ⚽, which reflect the importance of teamwork, dedication, and resilience. I believe in maintaining a balance between mind, body, and family, and embrace every challenge as an opportunity to learn and grow.
 
-My motto is simple yet powerful: discipline and dedication are the keys to achieving any goal. I enjoy facing new challenges and find joy in continuous learning and personal and professional growth. Every obstacle is an opportunity to learn, and every failure is a stepping stone to success. 🌟
-
-
+My motto is simple but powerful: discipline and commitment are the keys to achieving goals. I thrive in dynamic environments and enjoy continuous learning and personal and professional development. 🌟
 ### Connect with me!!
 
 <div align="left">
