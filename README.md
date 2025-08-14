@@ -1,14 +1,13 @@
 ## Miguel Ángel Molina Garzón 👨🏽‍💻
 
+Hello everyone! 👋 I'm Miguel Angel, a passionate 22-year-old software developer and young researcher from Colombia 🇨🇴. My journey blends a love for mathematics and programming with a deep curiosity for scientific research—particularly in artificial intelligence, computer vision, and depth imaging. 🤖🔍
 
-Hello everyone! 👋 I'm Miguel Angel, a passionate 21-year-old software developer and young researcher from Colombia 🇨🇴. My journey combines a love for mathematics and programming with a deep curiosity for scientific research, especially in areas such as artificial intelligence and computer vision. 🤖🔍
+I have contributed to applied research in spectral imaging and AI, focusing on the development of solutions that combine data analysis and deep learning for real-world challenges. I design and build mobile and web applications using technologies like Flutter, Dart, Python and React, with hands-on experience in frameworks and libraries such as PyTorch. 📱💻
 
-I have actively contributed to research in spectral imaging and AI, and recently co-developed my undergraduate thesis focused on depth estimation through image fusion using deep learning techniques. I also design and develop mobile and web applications using technologies like Flutter, Dart, Python, React, and MATLAB, and have experience with tools such as PyTorch and OpenCV.📱💻
+Beyond coding, I’m passionate about music 🎵 and sports—especially tennis 🎾 and soccer ⚽—which inspire my focus on teamwork, dedication, and resilience. I believe in maintaining balance between mind, body, and family, and view every challenge as an opportunity to learn and grow.
 
-Beyond code, I’m passionate about music 🎵 and sports, especially tennis 🎾 and soccer ⚽, which reflect the importance of teamwork, dedication, and resilience. I believe in maintaining a balance between mind, body, and family, and embrace every challenge as an opportunity to learn and grow.
-
-My motto is simple but powerful: discipline and commitment are the keys to achieving goals. I thrive in dynamic environments and enjoy continuous learning and personal and professional development. 🌟
-### Connect with me!!
+Motto: Small steps every day lead to big changes.
+I thrive in dynamic environments, eager to keep learning and contributing to meaningful projects. 🌟
 
 <div align="left">
   
