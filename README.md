@@ -1,13 +1,14 @@
 ## Miguel Ángel Molina Garzón 👨🏽‍💻
 
-Hello everyone! 👋 I'm Miguel Angel, a passionate 22-year-old software developer and young researcher from Colombia 🇨🇴. My journey blends a love for mathematics and programming with a deep curiosity for scientific research—particularly in artificial intelligence, computer vision, and depth imaging. 🤖🔍
+🚀 Hello everyone! I'm Miguel Angel, a Computer Scientist from Colombia 🇨🇴, passionate about building technology that bridges research and real-world applications.
 
-I have contributed to applied research in spectral imaging and AI, focusing on the development of solutions that combine data analysis and deep learning for real-world challenges. I design and build mobile and web applications using technologies like Flutter, Dart, Python and React, with hands-on experience in frameworks and libraries such as PyTorch. 📱💻
+My interests lie at the intersection of web and mobile development and artificial intelligence, with a strong focus on computer vision, deep learning, and autonomous systems. I have contributed to applied research in areas such as depth and spectral imaging, developing approaches that leverage data analysis and AI to tackle complex challenges.
 
-Beyond coding, I’m passionate about music 🎵 and sports—especially tennis 🎾 and soccer ⚽—which inspire my focus on teamwork, dedication, and resilience. I believe in maintaining balance between mind, body, and family, and view every challenge as an opportunity to learn and grow.
+On the development side, I enjoy designing and implementing solutions that integrate usability, efficiency, and scalability—from user role management and process automation to report generation and data visualization. I thrive in team environments, where ideas can move from exploration to deployment, creating impactful solutions.
 
-Motto: Small steps every day lead to big changes.
-I thrive in dynamic environments, eager to keep learning and contributing to meaningful projects. 🌟
+Outside of tech, I find balance through music 🎵, tennis 🎾, and soccer ⚽, which inspire my values of teamwork, discipline, and resilience. I see every challenge as an opportunity to learn, grow, and contribute. 🌟
+
+📌 Motto: Small steps every day lead to big changes.
 
 <div align="left">
   
